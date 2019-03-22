@@ -3,6 +3,7 @@ class Mammal extends Animal{
     public void math(){
         System.out.println("HUMAN-BEING?");
     }
+    //math >> override
     public void eat(){
         if(this.age < 10){
             System.out.println("Breasting Feeding");
@@ -14,6 +15,7 @@ class Mammal extends Animal{
         //What other specific animal eat?? >> how to change
         //Think about it
     }
+    //eat >> abstract
     //ABSTRACT을 하나 고정으로 만들어보장?
     //다른 문제는 나중에 생각해보자
 
@@ -22,6 +24,7 @@ class Mammal extends Animal{
     public void btemperature(){
         System.out.println("I am pretty warm.");
     }
+    //btemperarue >> abstract
     //Mammals are warm, and maybe some other animals aren't
     //so mammals are warm
     //others will state "i am cold" maybe
