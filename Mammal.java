@@ -7,6 +7,9 @@ class Mammal extends Animal{
         if(this.age < 10){
             System.out.println("Breasting Feeding");
         }
+        else{
+            this.adulteat();
+        }
         //What other specific animal eat?? >> how to change
         //Think about it
     }

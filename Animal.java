@@ -8,6 +8,7 @@ abstract class Animal{
     // full >> unable to eat
     abstract void btemperature();
     abstract void eat();
+    abstract void adulteat();
     //the way animals eat can different from each other
     abstract void makenoise();
     //the same with this one, their sounds are unique
