@@ -39,5 +39,5 @@ abstract class Animal{
     public void math(){
         System.out.println("UNABLE TO SOLVE");
     }
-
+    abstract void move();
 }

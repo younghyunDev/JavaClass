@@ -7,10 +7,19 @@ public class Testing{
         apeach.btemperature();
         apeach.makenoise();
         apeach.math();
+
+        System.out.println(puffy.fullness);        
+
         System.out.println("appech eat?");
         apeach.eat();
         System.out.println("puffy eat?");
         puffy.eat();
+
+        System.out.println(puffy.fullness);
+
+        puffy.move();
+
+        System.out.println(puffy.fullness);
     }
 
 }
