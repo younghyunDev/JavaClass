@@ -1,12 +1,15 @@
 abstract class Birds extends Animal{
-    //Override >> move >> they fly!
-    @Override
+    //Abstract >> 구체화
     public void move(){
         System.out.println("I believe I can fly!");
     }
-    //Override >> they usually eat worms!
-    @Override
+    //Abstract>> 구체화
     public void eat(){
         System.out.println("We Eat Worms");
+    }
+
+    //Abstract>> 구체화
+    public void makenoise(){
+        System.out.println("짹짹");
     }
 }
