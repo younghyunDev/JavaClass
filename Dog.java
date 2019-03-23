@@ -1,21 +1,10 @@
 class Dog extends Mammal{
+    //Abstract을 다 정의해줘야 한다
+    public void eat(){
+        System.out.println("We Want Eat");
+    }
+    //Abstract을 다 정의해야한다
     public void makenoise(){
         System.out.println("Woof Woof");
     }
-    //makenoise >> abstract
-    public void adulteat(){
-        System.out.println("WE EAT MEAT");
-        this.fullness +=1;
-    }
-    //adulteat >> abstract
-    @Override
-    public void math(){
-        System.out.println("what do you expect woof");
-    }
-    //math >> override
-    public void move(){
-        System.out.println("moving");
-        this.fullness -=1;
-    }
-    //move >> abstract
 }
