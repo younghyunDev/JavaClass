@@ -9,7 +9,7 @@ public class Testing{
         //Mamml에서 정의(새로 정의)
         System.out.println("Corki Feed : ");
         Corki.feed();
-        //Animal에서 정의(최초 정의)
+        //Animal에서 정의(새로 정의)
         System.out.println("Corki Move : ");
         Corki.move();
         //Bird에서 정의(Override 정의)
