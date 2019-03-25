@@ -1,7 +1,6 @@
 Title of the Page
 ============
-Second Title of the Page
-------------
+
 # Word Size Testing1
 ## Word Size Testing2
 ## Word Size Testing3
