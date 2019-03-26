@@ -1,57 +1,8 @@
-제주항공 (Markdown/Page 연습)
+JAVA 프로그래밍실습
 ============
 
-
-
-# 기본 재무 정보 (Word Size Testing1)
-
-|구분 |2016(A)|2017(A)|2018(F)|
-|-----|:---------:|:---------:|----------:|
-|매출액|747613|996357|1259396|
-|매출총이익|602001|774851|    |
-|영업이익|58415|101318|101203|
-
-## 기업 발행 정보 (Word Size Testing2)
-
-![기업발행정보](https://github.com/jaehchangSCSC/JavaClass/blob/master/%EA%B8%B0%EC%97%85%20%EB%B0%9C%ED%96%89%20%EC%A0%95%EB%B3%B4.JPG)
-
-## 주주 현황 (Word Size Testing3)
-
-
-### Word Size Testing4
-#### Word Size Testing5
-##### Word Size Testing6
-###### Word Size Testing7
-
-> Testing blockqute
->> Testing blockqute
->>> Testing blockqute
-
-1. Testing Numbering
-2. Testing Numbering
-3. Testing Numbering
-
-+ Testing Marking
-    + Testing Marking
-        + Testing Marking
-#### 혼합해서 사용 가능하다
-
-<hr/>
-
-###### 줄 긋기
-
-[제주항공 2018년 9월말 ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20181114001861)
-##Adding Link
-
-*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__
-
-~~cancellines~~
-
-
-
+#### 수업 진도 및 HW 진도 Table
+|구분|HW 및 진도|비고|
+|2019-03-07|    |인턴으로 수업 불참|
+|2019-03-14|Animal>> Polymorphism 및 Markdown 기본|인턴으로 수업 불참|
+|2019-03-21|Animal>> Abstract & Interface 및 AWS 설정|Animal>>Mammal/Bird>>(구체적인 동물)을 만들어서 상위 클래스는 추상화로 구성하였으며 밑에 Mammal 및 구체적인 동물에서 정의를 하였습니다. >> Interface는 아직 잘 이해를 하지 못하여서 작업中|
