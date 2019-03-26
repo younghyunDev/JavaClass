@@ -1,5 +1,5 @@
 # 테마 설정
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-cayman
 
 # 스킨 설정
 
